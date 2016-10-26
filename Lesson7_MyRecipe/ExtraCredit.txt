@@ -1,0 +1,14 @@
+I have created 4 functions:
+
+Function display: 
+- Changes the background color of h3 and li elements; 
+- Open and close the ingredients list and instructions list by clicking the h3 elements;
+
+Function display2:
+- increase the height and width of the image by clicking over it;
+
+Function hover2:
+- insert a border around the image when hovering over it.
+
+Function display3:
+- open or close the image by clicking the h2 element.
